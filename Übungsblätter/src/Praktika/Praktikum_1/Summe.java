@@ -1,9 +1,9 @@
-package Praktika.Praktikum_1;
-public class Praktikum_1 
+package Praktika.Summe;
+public class Summe 
 {   
     public static void main(String[] args)
     {
-        System.out.println(interval (subtotal));
+        System.out.println(interval (5,11));
     }
         public static int interval( int a, int b )
         {   
@@ -15,7 +15,6 @@ public class Praktikum_1
                 value = value + 1;
                 }
                 return subtotal;
-            
         }
 }
     
