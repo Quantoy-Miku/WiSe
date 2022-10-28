@@ -1,4 +1,4 @@
-package Temp;
+package Übungsblätter.Übungsblatt_1;
 public class Ganzzaelige_Berechnungen 
 {
     public static void main(String[] args) 
