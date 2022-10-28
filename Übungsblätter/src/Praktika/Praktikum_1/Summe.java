@@ -1,4 +1,4 @@
-package Praktika.Summe;
+package Praktika.Praktikum_1;
 public class Summe 
 {   
     public static void main(String[] args)
