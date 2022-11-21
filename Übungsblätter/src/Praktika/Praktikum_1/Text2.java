@@ -3,7 +3,7 @@ package Praktika.Praktikum_1;
 public class Text2 
 {
     public static void main(String[] args) {
-        System.out.println(intToString(-24562436));
+        System.out.println(intToString(-24));
     }
     public static String intToString( int z ){
         String ende = "";
