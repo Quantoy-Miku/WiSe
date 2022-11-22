@@ -4,7 +4,7 @@ public class Testat0
 {
     public static int[] apply( int[] arr, int x ){
         int counter = 0;
-        for (int i : arr) {
+        for (int i : arr){
         if(i==x) 
         counter++;
        }   
@@ -13,7 +13,7 @@ public class Testat0
        
        int[] reduce = new int[arr.length - counter];
        int offset = 0;
-       for (int index = 0; index < arr.length; index++) {
+       for (int index = 0; index < arr.length; index++){
             if(arr[index] != x){
                 reduce[index - offset] = arr[index];
             }
@@ -22,9 +22,9 @@ public class Testat0
        }
        return reduce;
     }
-    public static void main(String[] args) {
-        int [] test={1,2,3,4,5,6};
-        for (int i : apply(test, 3)) {
+    public static void main(String[] args){
+        int [] test={25,7,90,111,38,44};
+        for (int i : apply(test, 7)){
             System.out.println(i);
         }
     }
