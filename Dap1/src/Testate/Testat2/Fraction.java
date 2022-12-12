@@ -1,3 +1,4 @@
+package Testate.Testat2;
 
 public class Fraction
 {

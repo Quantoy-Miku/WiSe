@@ -1,3 +1,4 @@
+package Testate.Testat2;
 public class Testat
 {
     public static Fraction apply( Fraction[] arr, Fraction x )
