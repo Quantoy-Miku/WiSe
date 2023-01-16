@@ -19,5 +19,9 @@ public class Testat {
                     counter=counter.add(new Fraction(1,1));
                 }
                 return counter;
+            }
+
+            public static char[] apply(int[] arr2, int i) {
+                return null;
             }   
         }
