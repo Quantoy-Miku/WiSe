@@ -1,7 +1,7 @@
 package Praktika.Praktikum_2;
 
 public class BruchZaehlen{
-    private static final char[] Fraction = null;
+    public static final char[] Fraction = null;
     public static Fraction countNegatives( Fraction[] arr ){
         int counter=0;
         for (Fraction fraction : arr) {
