@@ -1,4 +1,4 @@
-package Testate;
+package Testate.Testat0;
 
 public class Testat0
 {
